@@ -1,4 +1,4 @@
-# Wellness Products Market Analysis + Brands' TikTok Posts Review + Influencer Proposal
+# Wellness Products Thailand Market Analysis + Brands' TikTok Posts Review + Influencer Proposal
 
 ## General Supplement Market Analysis
 
