@@ -1,3 +1,6 @@
+> **Note:** Dashboard visualizations in this analysis have been intentionally blurred to protect sensitive corporate data.
+> These screenshots below are the visualizations in Power BI but then brought them into Canva for presentation purpose.
+
 # Wellness Products Thailand Market Analysis + Brands' TikTok Posts Review + Influencer Proposal
 
 ## General Supplement Market Analysis
